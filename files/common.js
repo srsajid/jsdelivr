@@ -1,0 +1,5 @@
+author = "Jason Mulligan"
+github = "https://github.com/srsajid/startecg"
+homepage = "http://www.startech.com.bd/"
+description = "abaaso is a modern, lightweight Enterprise class RESTful JavaScript application framework"
+mainfile = "common.js"
